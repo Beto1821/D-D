@@ -1,5 +1,5 @@
 import Archetype from '../../src/Archetypes';
-import { EnergyType } from '../../src/Ener';
+import { EnergyType } from '../../src/Energy';
 
 class ArchetypeChild extends Archetype {
   get energyType(): EnergyType {
